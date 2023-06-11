@@ -29,3 +29,7 @@ A resposta será um objeto JSON com a contagem de caracteres da palavra:
 ## Contribuição
 
 Este projeto é de código aberto e as contribuições são bem-vindas. Sinta-se à vontade para enviar pull requests ou abrir issues para relatar problemas ou sugestões de melhorias.
+  
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
