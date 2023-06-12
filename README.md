@@ -24,7 +24,7 @@ A resposta será um objeto JSON com a contagem de caracteres da palavra:
 
 ## Limitações
 
-- A função Lambda suporta apenas palavras dentro dos limites permitidos pelo ambiente de execução.
+A função Lambda suporta apenas palavras dentro dos limites permitidos pelo ambiente de execução.
 
 ## Contribuição
 
