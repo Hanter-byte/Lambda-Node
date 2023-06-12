@@ -5,7 +5,7 @@ Esta é uma função Lambda simples que recebe uma palavra como entrada por meio
 ## Como Usar
 
 Para usar esta função Lambda, faça uma chamada HTTP GET para a URL abaixo, substituindo `<palavra>` pela palavra desejada:
-https://g9mosid6cj.execute-api.us-east-2.amazonaws.com/default/basicLambda?word=<palavra>
+https://g9mosid6cj.execute-api.us-east-2.amazonaws.com/default/basicLambda?word=%3Cpalavra%3E
 
 
 Você receberá uma resposta com o número de caracteres na palavra fornecida.
